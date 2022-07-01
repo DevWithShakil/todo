@@ -8,8 +8,8 @@ const Footer = () => {
 
             </div>
             <footer class="footer footer-center p-4text-base-content">
-                <div>
-                    <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
+                <div className='pt-20'>
+                    <p>Copyright © 2022 - All right reserved by Developer</p>
                 </div>
             </footer>
         </div>
